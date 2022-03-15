@@ -29,6 +29,7 @@ header {
 .logo:hover {
     font-size: 29px;
     color: rgb(235, 151, 151);
+    transition: 0.3s;
 }
 
 .navbar {
